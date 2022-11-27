@@ -1,0 +1,15 @@
+E:\ParallelProgrammingLabs\Lab2\Lab2\bin\Release\net7.0\Lab2.exe
+E:\ParallelProgrammingLabs\Lab2\Lab2\bin\Release\net7.0\Lab2.deps.json
+E:\ParallelProgrammingLabs\Lab2\Lab2\bin\Release\net7.0\Lab2.runtimeconfig.json
+E:\ParallelProgrammingLabs\Lab2\Lab2\bin\Release\net7.0\Lab2.dll
+E:\ParallelProgrammingLabs\Lab2\Lab2\bin\Release\net7.0\Lab2.pdb
+E:\ParallelProgrammingLabs\Lab2\Lab2\obj\Release\net7.0\Lab2.csproj.AssemblyReference.cache
+E:\ParallelProgrammingLabs\Lab2\Lab2\obj\Release\net7.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ParallelProgrammingLabs\Lab2\Lab2\obj\Release\net7.0\Lab2.AssemblyInfoInputs.cache
+E:\ParallelProgrammingLabs\Lab2\Lab2\obj\Release\net7.0\Lab2.AssemblyInfo.cs
+E:\ParallelProgrammingLabs\Lab2\Lab2\obj\Release\net7.0\Lab2.csproj.CoreCompileInputs.cache
+E:\ParallelProgrammingLabs\Lab2\Lab2\obj\Release\net7.0\Lab2.dll
+E:\ParallelProgrammingLabs\Lab2\Lab2\obj\Release\net7.0\refint\Lab2.dll
+E:\ParallelProgrammingLabs\Lab2\Lab2\obj\Release\net7.0\Lab2.pdb
+E:\ParallelProgrammingLabs\Lab2\Lab2\obj\Release\net7.0\Lab2.genruntimeconfig.cache
+E:\ParallelProgrammingLabs\Lab2\Lab2\obj\Release\net7.0\ref\Lab2.dll
