@@ -1,0 +1,5 @@
+﻿  Data.cpp
+  Lab5.cpp
+E:\ParallelProgrammingLabs\Lab5\Lab5\Lab5.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Lab5.vcxproj -> E:\ParallelProgrammingLabs\Lab5\x64\Debug\Lab5.exe

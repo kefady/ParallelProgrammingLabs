@@ -36,7 +36,7 @@ int Calculate(int p, int* A, int* B, int** MB, int** MR, int** MZ, int length, i
 			for (int k = 0; k < length; k++)
 			{
 				temp1 += MR[i][k] * MZ[k][j];
-				temp2 += B[k] * MR[i][k];
+				temp2 += A[k] * MB[i][k];
 			}
 			result += p * temp2 * B[j] * temp1;
 		}
