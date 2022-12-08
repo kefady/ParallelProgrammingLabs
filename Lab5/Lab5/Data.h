@@ -3,7 +3,7 @@
 #ifndef DATA
 #define DATA
 
-const int N = 2000;
+const int N = 8;
 const int P = 8;
 const int H = N / P;
 const bool RandomValue = false;
